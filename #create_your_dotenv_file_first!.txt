@@ -1,0 +1,2 @@
+# to use this bot, please install "python-dotenv" package and create .env file. Format of token - should be UPPERCASE name of bot's name (i.e. if you use "start_cat_loaf.py" to start the bot, then use token as per below):
+CAT_LOAF_TOKEN = "your_own_discord_bot-app_token"
